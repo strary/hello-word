@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi, everyone!
+
+I am strary. I started studying github today!
